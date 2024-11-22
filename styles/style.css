@@ -114,26 +114,58 @@ main section img{
 }
 
 h2{
+	margin-bottom: .5em;
+	margin-left: .5em;
 	font-size: 2em;
 	font-weight: bolder;
 }
 
 section:nth-of-type(2) p{
+	margin-left: .5em;
 	font-size: 1em;
 }
 
-main>section:nth-of-type(2){
-	margin-left: 1.5em;
-	margin-right: 1.5em;
-}
-
-section:nth-of-type(2)>section>p{
-	font-size: 1em;
+main>section:nth-of-type(2)>p:first-of-type{
 	margin-top: 0;
 }
 
-section:nth-of-type(2)>section>p:first-child {
+main>section:nth-of-type(2){
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+blockquote p:first-child {
 	font-size: 3em;
 	color: pink;
 	font-weight: bold;
+	margin-bottom: 0;
+}
+
+blockquote p:nth-child(2){
+	font-size: 1em;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+section:nth-of-type(2)>p:last-of-type{
+	font-weight: bold;
+}
+
+section:nth-of-type(2)>a{
+	color: white;
+	background-color: black;
+	padding: .5em 2.5em;
+	border-radius: 2em;
+	text-decoration: none;
+
+}
+
+footer a{
+	color: white;
+	background-color: black;
+	padding: .5em 7em;
+	border-radius: 2em;
+	text-decoration: none;
+	margin-top: 2em;
+	position: absolute;
 }

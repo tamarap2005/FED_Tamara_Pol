@@ -88,6 +88,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
+  Ik vind het nog lastig om de juiste selectoren te pakken voor het stijlen. Ik ben vaak nog van alles aan het proberen totdat ik de juiste te pakken heb. Vooral als het gaat om dingen centreren en de padding.
+
+  Maar over het algemeen gaat het nog goed. ALs ik mezelf vergelijk met vorig jaar ben ik al een heel stuk beter geworden.
+  
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
